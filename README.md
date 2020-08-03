@@ -1,1 +1,1 @@
-A simple crud microservice using spring boot and hibernate
+A Simple Crud Microservice Using Spring Boot and Hibernate
