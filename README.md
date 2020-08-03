@@ -1,1 +1,1 @@
-A simple crud operation using spring boot and hibernate
+A simple crud microservice using spring boot and hibernate
